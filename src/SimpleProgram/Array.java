@@ -10,7 +10,8 @@ public class Array {
 
 		System.out.println(t);
 
-
+		int r=a+t;
+		System.out.println(r);
 		//My name is vignesh.
 
 	}
