@@ -12,7 +12,7 @@ public class Array {
 
 		int r=a*t;
 		System.out.println(r);
-		//My name is vignesh.
+		//My name is vignesh, sakthi.
 
 	}
 
